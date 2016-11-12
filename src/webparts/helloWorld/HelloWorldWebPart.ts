@@ -63,10 +63,7 @@ export default class HelloWorldWebPart extends BaseClientSideWebPart<IHelloWorld
                     {key:1, text:'Austria'}
                   ]
                 })
-                //,
-                //PropertyPaneToggle('toggle', {
 
-                //}),
               ]
             }
           ]
